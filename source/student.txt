@@ -1,0 +1,95 @@
+StudentId = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+PhoneNumber = 790-3233
+Course = CS
+CGPA = 3.12076
+
+StudentId = 22
+Name = Ben Affleck
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+PhoneNumber = 432-4579
+Course = IB
+CGPA = 3.12076
+
+StudentId = 23
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+PhoneNumber = 790-0000
+Course = CS
+CGPA = 3.12076
+
+StudentId = 19
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+PhoneNumber = 345-6780
+Course = CS
+CGPA = 3.12076
+
+StudentId = 21
+Name = Zoe Tay
+Address = 100 Blue Eyed St, Malaysia 456872
+DOB = 15-02-1968
+PhoneNumber = 456-1234
+Course = CS
+CGPA = 3.12076
+
+StudentId = 125
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+PhoneNumber = 456-4321
+Course = IB
+CGPA = 3.23678
+
+StudentId = 25
+Name = Katou Kazuma
+Address = 300 Axis Mansion, Kingdom of Narnia 895855
+DOB = 31-03-1995
+PhoneNumber = 759-5585
+Course = CN
+CGPA = 2.56899
+
+StudentId = 134
+Name = Dio Brando
+Address = 1734 Joestar Mansion, Great Britian 696857
+DOB = 27-09-1873
+PhoneNumber = 666-5745
+Course = CT
+CGPA = 3.99999
+
+StudentId = 101
+Name = Miyuki Shirogane
+Address = 100 Tokyo, Korawa Prefacture, Japan 456872
+DOB = 06-04-1995
+PhoneNumber = 852-2934
+Course = IA
+CGPA = 3.86679
+
+StudentId = 24
+Name = Jonathan Iron Atlas
+Address = 75 St. Fahrenfiet St, New York, USA 777586
+DOB = 12-11-1968
+PhoneNumber = 982-7899
+Course = CT
+CGPA = 3.55678
+
+StudentId = 158
+Name = Imran Zakhaev
+Address = 888 Lenin St, Leningrad, Russia 888562
+DOB = 14-01-1954
+PhoneNumber = 984-7832
+Course = CN
+CGPA = 3.44451
+
+StudentId = 162
+Name = Inoyashiki Midoriya
+Address = 13 Fujiwara, Hokaido, Japan 482935
+DOB = 07-07-2001
+PhoneNumber = 558-7581
+Course = CT
+CGPA = 3.00031

@@ -1,0 +1,96 @@
+
+Name:  Inoyashiki Midoriya
+ID: 162
+Address:  13 Fujiwara, Hokaido, Japan 482935
+Date of Birth: 07-07-2001
+Phone No: 558-7581
+Course: CT
+CGPA: 3.00031
+
+Name:  Imran Zakhaev
+ID: 158
+Address:  888 Lenin St, Leningrad, Russia 888562
+Date of Birth: 14-01-1954
+Phone No: 984-7832
+Course: CN
+CGPA: 3.44451
+
+Name:  Dio Brando
+ID: 134
+Address:  1734 Joestar Mansion, Great Britian 696857
+Date of Birth: 27-09-1873
+Phone No: 666-5745
+Course: CT
+CGPA: 3.99999
+
+Name:  Julia Roberts
+ID: 125
+Address:  100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+Name:  Miyuki Shirogane
+ID: 101
+Address:  100 Tokyo, Korawa Prefacture, Japan 456872
+Date of Birth: 06-04-1995
+Phone No: 852-2934
+Course: IA
+CGPA: 3.86679
+
+Name:  Matt Damon
+ID: 28
+Address:  465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name:  Katou Kazuma
+ID: 25
+Address:  300 Axis Mansion, Kingdom of Narnia 895855
+Date of Birth: 31-03-1995
+Phone No: 759-5585
+Course: CN
+CGPA: 2.56899
+
+Name:  Jonathan Iron Atlas
+ID: 24
+Address:  75 St. Fahrenfiet St, New York, USA 777586
+Date of Birth: 12-11-1968
+Phone No: 982-7899
+Course: CT
+CGPA: 3.55678
+
+Name:  Salma Hayek
+ID: 23
+Address:  45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name:  Ben Affleck
+ID: 22
+Address:  200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name:  Zoe Tay
+ID: 21
+Address:  100 Blue Eyed St, Malaysia 456872
+Date of Birth: 15-02-1968
+Phone No: 456-1234
+Course: CS
+CGPA: 3.12076
+
+Name:  Phua Chu Kang
+ID: 19
+Address:  50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
